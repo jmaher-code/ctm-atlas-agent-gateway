@@ -2,7 +2,8 @@
   "name": "ctm-atlas-agent-gateway",
   "version": "1.0.0",
   "type": "module",
+  "private": true,
   "dependencies": {
-    "openai": "^4.0.0"
+    "openai": "^4.52.0"
   }
 }
